@@ -27,4 +27,5 @@ docker ps -a
 
 
 ## Screens
-![Zrzut ekranowy strony uruchomionej na nginx](img%2Fpage.png)
+![Działająca aplikacja node](img%2Fpage_node.png)
+![Zrzut ekranowy strony uruchomionej na nginx](img%2Fpage.png)!

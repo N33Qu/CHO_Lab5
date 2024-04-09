@@ -4,7 +4,7 @@
   "description": "Prosta aplikacja serwująca informacje o serwerze",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node ./src/app.js"
   },
   "author": "Twój Autor",
   "license": "ISC",
