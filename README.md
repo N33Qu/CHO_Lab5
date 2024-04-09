@@ -28,6 +28,9 @@ docker ps -a
 
 ## Screens
 Efekt działania aplikacji node.js
+
 ![Działająca aplikacja node](img%2Fpage_node.png)
+
 Efekt działania aplikacji na nginx
+
 ![Zrzut ekranowy strony uruchomionej na nginx](img%2Fpage.png)!
