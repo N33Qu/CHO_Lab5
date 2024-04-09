@@ -12,12 +12,12 @@
 Budowanie obrazu:
 
 ```bash
-docker build -t cho_lab5:v1 .  
+docker build -t <image_name> .  
 ```
 
 Uruchamianie kontenera:
 ```bash
-docker run -p 80:80 --name=cho_lab5 -e VERSION=v1.0 cho_lab5:v1
+docker run -p 80:80 --name=<name> -e VERSION=v1.0 <image_name>
 ```
 
 Sprawdzenie kontenera:
@@ -27,5 +27,7 @@ docker ps -a
 
 
 ## Screens
+Efekt działania aplikacji node.js
 ![Działająca aplikacja node](img%2Fpage_node.png)
+Efekt działania aplikacji na nginx
 ![Zrzut ekranowy strony uruchomionej na nginx](img%2Fpage.png)!
